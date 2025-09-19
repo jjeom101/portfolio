@@ -15,8 +15,8 @@
 - 관리자 페이지 (예약 관리)  
 
 ## 📸 화면 예시
-![메인화면](images/mainPage.png)  
-![예약화면](images/res_Page.png)  
+![메인화면](image/mainPage.png)  
+![예약화면](image/res_Page.png)  
 
 ## 🚀 실행 방법
 ```bash
